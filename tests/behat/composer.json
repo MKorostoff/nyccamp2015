@@ -1,0 +1,6 @@
+{
+    "require": {
+        "drupal/drupal-extension": "dev-master",
+        "behat/behat": "dev-master"
+    }
+}
